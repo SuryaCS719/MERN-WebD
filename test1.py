@@ -9,3 +9,6 @@ def bubblesort(n):
 
 def quicksort(n):
 	pass
+
+def mergesort(n):
+	pass
