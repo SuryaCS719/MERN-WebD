@@ -6,3 +6,6 @@ else:
 
 def bubblesort(n):
 	pass
+
+def quicksort(n):
+	pass
